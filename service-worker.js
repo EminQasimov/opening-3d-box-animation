@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/EminQasimov/opening-3d-box-animation/precache-manifest.a67f44dab65b37a6a0301e33fc03208c.js"
+  "/opening-3d-box-animation/precache-manifest.ed7d138467ec3ec82beef007e6208c8f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/EminQasimov/opening-3d-box-animation/index.html", {
+workbox.routing.registerNavigationRoute("/opening-3d-box-animation/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
