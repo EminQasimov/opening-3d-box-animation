@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/EminQasimov/opening-3d-box-animation/precache-manifest.8cdfbf4640e392ec52b012163c3eea5c.js"
+  "/EminQasimov/opening-3d-box-animation/precache-manifest.a67f44dab65b37a6a0301e33fc03208c.js"
 );
 
 workbox.clientsClaim();
